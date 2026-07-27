@@ -1,3 +1,4 @@
+![QT Blender Universal Launcher Banner](banner.png)
 # QT Blender Universal Launcher
 
 A universal 3D file launcher for Blender that makes opening external 3D assets feel more like a traditional DCC application.
