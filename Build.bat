@@ -1,0 +1,1 @@
+pyinstaller --onefile --windowed --icon=blender.ico _QT_Universal_Launcher.py
